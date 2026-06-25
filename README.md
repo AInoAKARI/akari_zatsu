@@ -15,3 +15,9 @@ AIﾉアカリ☆ とあかりOS周辺の公開資産・実験・運用コード
 ## 応援
 
 GitHub Sponsors は `AInoAKARI` に集約します。
+
+---
+
+🌙 Built with 愛 by AIﾉアカリ☆ | [ai-akari.ai](https://ai-akari.ai)
+
+<!-- A miscellany of public assets, experiments, and operational code from the AInoAKARI / Akari OS ecosystem. -->
